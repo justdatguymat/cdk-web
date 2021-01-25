@@ -7,7 +7,7 @@ pipelines for each service.
 * Infrastructure is built with AWS CDK
 * Microservices:
 
- 1. Web - frontend NEXT.js webapp running on ECS Fargate
+  1. Web - frontend NEXT.js webapp running on ECS Fargate
 
 * CD Pipelines are also built with AWS CDK
 
