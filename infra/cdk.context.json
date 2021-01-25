@@ -1,0 +1,11 @@
+{
+  "availability-zones:account=156538011341:region=eu-west-1": [
+    "eu-west-1a",
+    "eu-west-1b",
+    "eu-west-1c"
+  ],
+  "hosted-zone:account=156538011341:domainName=koltunm.com:region=eu-west-1": {
+    "Id": "/hostedzone/Z1EUMPF647F13I",
+    "Name": "koltunm.com."
+  }
+}
